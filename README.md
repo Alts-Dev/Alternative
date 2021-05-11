@@ -3,3 +3,18 @@
 ##         I develop minecraft clients(hacked,pvp) I also make anticheats and know some front end web development.
 
 ###             I am also learning cyber security and reverse enginnering for c and byte code.
+
+
+Languages I know
+Java: [✔️]
+C#: [✔️]
+CSS: [✔️]
+HTML: [✔️]
+JS: [✔️]
+
+
+Languages I am learing
+C++: [✔️]
+Python: [✔️]
+LUA: [✔️]
+Kotlin: [✔️]
