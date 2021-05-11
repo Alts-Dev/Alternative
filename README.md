@@ -6,15 +6,15 @@
 
 
 Languages I know
-Java: [✔️]
-C#: [✔️]
-CSS: [✔️]
-HTML: [✔️]
-JS: [✔️]
+-Java: [✔️]
+-C#: [✔️]
+-CSS: [✔️]
+-HTML: [✔️]
+-JS: [✔️]
 
 
 Languages I am learing
-C++: [✔️]
-Python: [✔️]
-LUA: [✔️]
-Kotlin: [✔️]
+-C++: [✔️]
+-Python: [✔️]
+-LUA: [✔️]
+-Kotlin: [✔️]
