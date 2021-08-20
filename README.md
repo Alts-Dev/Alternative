@@ -8,10 +8,6 @@
 Languages I know
 - Java: [✔️]
 - C#: [✔️]
-- CSS: [✔️]
-- HTML: [✔️]
-- JS: [✔️]
-
 
 Languages I am learing
 - C++: [✔️]
