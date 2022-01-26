@@ -1,16 +1,16 @@
-# Hello, My name is Alternative Accounts, I also go by Fathum or just Alts
 
-##         I develop minecraft clients(hacked,pvp) I also make anticheats and know some very basic front end web development.
+##         I work on mid to higher level projects normally written in C#, Java, or Python
+###         I also enjoy video games and video game reverse enginnering or just general program deobfuscation and cracking
 
-###             I am also learning cyber security and reverse enginnering for c and byte code.
+####          I am also learning cyber security and reverse enginnering for c and byte code.
 
 
 Languages I know
 - Java: [✔️]
 - C#: [✔️]
+- Python: [✔️]
 
 Languages I am learing
 - C++: [✔️]
-- Python: [✔️]
 - LUA: [✔️]
 - Kotlin: [✔️]
