@@ -4,8 +4,8 @@
 
 ####          I am also learning cyber security and reverse enginnering for c and byte code.
 
-Stats
-[![Alts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alts-Dev&show_icons=true&theme=radical)]
+
+![Alts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alts-Dev&show_icons=true&theme=radical)]
 
 
 Languages I know
