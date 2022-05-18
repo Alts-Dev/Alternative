@@ -4,6 +4,9 @@
 
 ####          I am also learning cyber security and reverse enginnering for c and byte code.
 
+Stats
+[![Alts's GitHub stats](https://github-readme-stats.vercel.app/api?Alts-Dev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Languages I know
 - Java: [✔️]
@@ -14,3 +17,5 @@ Languages I am learing
 - C++: [✔️]
 - LUA: [✔️]
 - Kotlin: [✔️]
+
+
